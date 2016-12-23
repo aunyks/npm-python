@@ -1,0 +1,14 @@
+{
+  "name": "npm-python",
+  "version": "1.0.1",
+  "description": "A python package on NPM!",
+  "main": "hello.py",
+  "scripts": {
+    "test": "python hello.py"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "Gerald Nash <g.nash.dev@gmail.com> (http://aunyks.com)",
+  "license": "ISC"
+}
