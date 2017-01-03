@@ -4,5 +4,5 @@ It's merely a proof-of-concept that says "Hello World"!
 
 To install and run this package, paste the following line into the terminal:
 ```
-git clone https://github.com/aunyks/npm-python && npm test
+git clone https://github.com/aunyks/npm-python.git && npm test
 ```
